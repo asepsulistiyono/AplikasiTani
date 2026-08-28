@@ -1,0 +1,6 @@
+{
+  "name": "AgriSmart Nusantara - Manajemen Pertanian Terpadu",
+  "description": "Platform sistem manajemen pertanian terpadu modern dengan monitoring IoT lahan, pemetaan blok tanam, klinik tanaman AI, kalkulator nutrisi presisi, dan analisis finansial usahatani.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
